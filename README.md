@@ -1,4 +1,4 @@
 print
 ====
 
-This is "print" program
+This is a program
