@@ -1,4 +1,4 @@
-test
+print
 ====
 
-This is test program
+This is "print" program
