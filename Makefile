@@ -1,4 +1,10 @@
-
+CC=gcc
 make: main.c
-	gcc main.c -o main
+	$(CC)  -o print main.c
+
+install:
+	cp print /usr/bin
+
+remove:
+	rv /usr/bin/print
 	
