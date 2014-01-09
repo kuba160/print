@@ -1,1 +1,7 @@
-#its a test file
+#include <stdio.h>
+
+int main()
+{
+	printf("test\n");
+	return 0;
+}
