@@ -1,3 +1,5 @@
+# This is Makefile for print program
+# for errors write on https://github.com/kuba160/print
 CC=gcc
 make: main.c
 	$(CC)  -o print main.c -Wall
